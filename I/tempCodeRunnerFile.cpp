@@ -1,0 +1,1 @@
+ getline(out,st);
